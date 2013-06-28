@@ -7,3 +7,7 @@ It is a myspace music searcher and downloader made in python. It uses rtmpdump f
 
 ##Contributer:
 1. Philipp Hagemeister 
+
+##Edit:
+
+This does not work anymore as myspace has renovated their website. The urls which i use in this program do not work anymore. I will update this script when i get some time.
